@@ -9,7 +9,7 @@ const itens = //Cuidado com as virgulas!!!!!!!!!
         idade: 8001
     },
     {
-        nome: "Lucas",
+        nome: "Jorge",
         idade: 15
     },
     {
