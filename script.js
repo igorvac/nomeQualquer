@@ -14,7 +14,7 @@ const itens = //Cuidado com as virgulas!!!!!!!!!
     },
     {
         nome: "Xandão",
-        idade: 900
+        idade: 800
     }
 ];
 
